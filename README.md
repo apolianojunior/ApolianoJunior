@@ -1,19 +1,15 @@
-### Hi there 👋
+# Hi, I'm Junior 👋
 
-<!--
-**apolianojunior/ApolianoJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Currently Project Analyst at Beach Park Hotéis e Turismo S/A <br>
+🇧🇷 Born in Fortaleza (CE), Brazil <br>
+🇧🇷 Living in Fortaleza (CE), Brazil <br>
 
-Hi, I'm Apoliano Junior 👋
-🤓 Currently Project Analyst at BeachPark
-🇧🇷 Born in Fortaleza (CE), Brazil
-🇧🇷 Living in Fortaleza (CE), Brazil
+### What I'm working on 👨‍💻
 
-What I'm working on 👨‍💻
-🌱 Currently learning Java 
+📚 Currently learning Java, Spring and Angular <br>
 
-Find me 🌎
-🐦 Twitter
-💼 LinkedIn
-📫 email
+### Find me 🌎
 
--->
+🐦 [Twitter](https://twitter.com/juninhomorais31) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/j%C3%BAnior-morais-715321a4/) <br>
+📫 [E-mail](jrmorais@gmail.com) <br>
